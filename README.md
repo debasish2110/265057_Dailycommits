@@ -7,10 +7,8 @@
 
 **My Hackerrank Profile link :** [debashish2110](https://www.hackerrank.com/debashish2110)
 
-**👇Commits data in Tabular Form👇**
-
 ---------
-
+**👇Commits data in Tabular Form👇**
 | Sl_No | Folder name | File Name | Date |
 |:---:|:---:|:---:|:---:|
 | 1 | codes | my_first_prog.py | 17/04 |
