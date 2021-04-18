@@ -248,7 +248,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618785013770</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="sololearn solution commit(19/04)">
+      <created>1618785120328</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1618785120328</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -271,6 +278,7 @@
     <MESSAGE value="Day1 commiting(18/04)" />
     <MESSAGE value="sololearnfuzzbuzz" />
     <MESSAGE value="sololearn solution commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="sololearn solution commit" />
+    <MESSAGE value="sololearn solution commit(19/04)" />
+    <option name="LAST_COMMIT_MESSAGE" value="sololearn solution commit(19/04)" />
   </component>
 </project>
