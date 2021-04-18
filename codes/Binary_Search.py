@@ -27,4 +27,4 @@ result = binary_search(arr, 0, len(arr) - 1, search_ele)
 if result != -1:
     print("Element is present at index no: ",(result))
 else:
-    print("Element is not present in the array")
+    print("Element is not present in theK array")
