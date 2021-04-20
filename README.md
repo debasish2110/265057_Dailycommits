@@ -19,7 +19,7 @@
 ---------
 **👇Commits data in Tabular Form👇**
 | Sl_No | Folder name | File Name | Date |
-|:---:|:---:|:---:|:---:|
+|:--:|:---:|:---:|:---:|
 | 1 | codes | [my_first_prog.py](https://github.com/debasish2110/265057_Dailycommits/blob/master/codes/my_first_prog.py) | 17/04 |
 | 2 | codes | [Binary_Search.py](https://github.com/debasish2110/265057_Dailycommits/blob/master/codes/Binary_Search.py) | 18/04 |
 | 3 | codes | [fuzz_buzz_sololearn_solution.py](https://github.com/debasish2110/265057_Dailycommits/blob/master/codes/fuzz_buzz_sololearn_solution.py) | 18/04 |
