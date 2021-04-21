@@ -25,4 +25,23 @@ print("after upating the whole string: ", string1)
 
 """same way we can not delete a character from a string but we can delete an entire string"""
 
+#string formatting
+
+String1 = "{} {} {} {}".format('we', 'are', 'LTTS', 'nextgen')
+print("Print String in default order: ")
+print(String1)
+
+String1 = "{1} {3} {0} {2}".format('we', 'are', 'LTTS', 'nextgen')
+print("Print String in positional formatting order: ")
+print(String1)
+
+String1 = "{a} {c} {d} {b}".format(a='we', b='are', c='LTTS', d='nextgen')
+print("Print String in keyword formatting order: ")
+print(String1)
+
+#string operations
+string1 = "hello"
+string2 = "world"
+print("concat: ", string1+string2)
+print("multiply: ", string1*3)
 
