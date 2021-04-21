@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a137b97-f67c-4880-97f0-61b247479104" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/codes/python_strings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codes/python_strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/codes/python_strings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -386,7 +386,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618951367924</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="string functions(20/04)">
+      <created>1619007729647</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1619007729647</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -414,6 +421,7 @@
     <MESSAGE value="python certificate update(19/04)" />
     <MESSAGE value="readme update(20/04)" />
     <MESSAGE value="List functions update(20/04)" />
-    <option name="LAST_COMMIT_MESSAGE" value="List functions update(20/04)" />
+    <MESSAGE value="string functions(20/04)" />
+    <option name="LAST_COMMIT_MESSAGE" value="string functions(20/04)" />
   </component>
 </project>
