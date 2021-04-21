@@ -11,7 +11,8 @@
 **Folder Structure**
 ----
 
-**Certs:** This folder contains the Cisco certificate (not yet completed)
+**Certs:** This folder contains the certificates supposed to completed (not yet completed)
+P.s: it wasn't asked to upload the certificates here but i am keeping the certificates fo future and as a backup.
 
 **codes:** This folder contains all the practice codes commited on daily basis.
 
@@ -26,6 +27,7 @@
 | 4 | codes | [Book_Title_Sololearn_soln.py](https://github.com/debasish2110/265057_Dailycommits/blob/master/codes/Book_Title_Sololearn_soln.py) | 19/04 |
 | 5 | certs | [sololearn python certificate.pdf](https://github.com/debasish2110/265057_Dailycommits/blob/master/certs/sololearn%20python%20certificate.pdf) | 19/04 |
 | 6 | codes | [lists_in_python.py](https://github.com/debasish2110/265057_Dailycommits/blob/master/codes/lists_in_python.py) | 20/04 |
+| 7 | codes | [python_strings.py]() | 21/04 |
 **If you like my work please leave a :star:**
 
 ---------------------------------------------
