@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a137b97-f67c-4880-97f0-61b247479104" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/future skills submission/if-elif-else2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/future skills submission/if-elif-else3.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +41,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.if-elif-else2">
+  <component name="RunManager" selected="Python.if-elif-else3">
     <configuration name="dictionary1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonDailyCommit" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,7 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lists_in_python" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="if-elif-else3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonDailyCommit" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,11 +113,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/codes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/future skills submission" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codes/lists_in_python.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/future skills submission/if-elif-else3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.if-elif-else3" />
         <item itemvalue="Python.if-elif-else2" />
         <item itemvalue="Python.if-elif-else1" />
         <item itemvalue="Python.dictionary1" />
         <item itemvalue="Python.python_strings" />
-        <item itemvalue="Python.lists_in_python" />
       </list>
     </recent_temporary>
   </component>
@@ -471,7 +469,21 @@
       <option name="project" value="LOCAL" />
       <updated>1619120392408</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="if-elif future skills submission(23/04)">
+      <created>1619120959713</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1619120959713</updated>
+    </task>
+    <task id="LOCAL-00045" summary="if-elif future skills submission(23/04)">
+      <created>1619121067913</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1619121067913</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
