@@ -11,11 +11,13 @@
 **Folder Structure**
 ----
 
-**Certs:** This folder contains the certificates supposed to completed (not yet completed)
-P.s: it wasn't asked to upload the certificates here but i am keeping the certificates fo future and as a backup.
+
+**future skills submission:** solutions of the questions which are uploaded in the future skills are uploaded here
 
 **codes:** This folder contains all the practice codes commited on daily basis.
 
+**Certs:** This folder contains the certificates supposed to completed (not yet completed)
+P.s: it wasn't asked to upload the certificates here but i am keeping the certificates fo future and as a backup.
 
 ---------
 **👇Commits data in Tabular Form👇**
@@ -28,6 +30,7 @@ P.s: it wasn't asked to upload the certificates here but i am keeping the certif
 | 5 | certs | [sololearn python certificate.pdf](https://github.com/debasish2110/265057_Dailycommits/blob/master/certs/sololearn%20python%20certificate.pdf) | 19/04 |
 | 6 | codes | [lists_in_python.py](https://github.com/debasish2110/265057_Dailycommits/blob/master/codes/lists_in_python.py) | 20/04 |
 | 7 | codes | [python_strings.py](https://github.com/debasish2110/265057_Dailycommits/blob/master/codes/python_strings.py) | 21/04 |
+| 8 | future skills submission | [dictionary.py](https://github.com/debasish2110/265057_Dailycommits/blob/master/future%20skills%20submission/dictionary1.py) | 22/04 |
 **If you like my work please leave a :star:**
 
 ---------------------------------------------
