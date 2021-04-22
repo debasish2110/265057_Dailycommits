@@ -40,9 +40,11 @@ P.s: it wasn't asked to upload the certificates here but i am keeping the certif
 
 ```
 ├── certs 
-│   ├── sololearn python certificate.pdf   
+│   ├── sololearn python certificate.pdf  
+| 
 ├── future skills submission
 │   ├── dictionary1.py
+|
 ├── codes
 │   ├── Binary_Search.py
 |   |── Book_Title_Sololearn_soln.py
@@ -50,6 +52,7 @@ P.s: it wasn't asked to upload the certificates here but i am keeping the certif
 |   |── lists_in_python.py
 |   |── python_strings.py
 |   |── my_first_prog.py
+|
 ├── .gitignore file
 ├── LICENSE
 
