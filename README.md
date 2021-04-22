@@ -36,8 +36,6 @@ P.s: it wasn't asked to upload the certificates here but i am keeping the certif
 | 11 | future skills submission | [if-elif-else3.py](https://github.com/debasish2110/265057_Dailycommits/blob/master/future%20skills%20submission/if-elif-else3.py) | 23/04 |
 | 12 | future skills submission | [if-elif-else4.py](https://github.com/debasish2110/265057_Dailycommits/blob/master/future%20skills%20submission/if-elif-else4.py) | 23/04 |
 
-**If you like my work please leave a :star:**
-
 ---------------------------------------------
 
 ## Directory Tree
@@ -65,3 +63,5 @@ P.s: it wasn't asked to upload the certificates here but i am keeping the certif
 ├── LICENSE
 
 ```
+
+**If you like my work please leave a :star:**
