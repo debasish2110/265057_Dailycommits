@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a137b97-f67c-4880-97f0-61b247479104" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/future skills submission/if-elif-else3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/future skills submission/if-elif-else4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +43,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.if-elif-else3">
+  <component name="RunManager" selected="Python.if-elif-else4">
     <configuration name="dictionary1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonDailyCommit" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -126,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="python_strings" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="if-elif-else4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonDailyCommit" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,11 +136,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/codes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/future skills submission" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codes/python_strings.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/future skills submission/if-elif-else4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.if-elif-else4" />
         <item itemvalue="Python.if-elif-else3" />
         <item itemvalue="Python.if-elif-else2" />
         <item itemvalue="Python.if-elif-else1" />
         <item itemvalue="Python.dictionary1" />
-        <item itemvalue="Python.python_strings" />
       </list>
     </recent_temporary>
   </component>
@@ -483,7 +485,28 @@
       <option name="project" value="LOCAL" />
       <updated>1619121067913</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="if-elif future skills submission(23/04)">
+      <created>1619121525543</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1619121525543</updated>
+    </task>
+    <task id="LOCAL-00047" summary="if-elif future skills submission(23/04)">
+      <created>1619121598042</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1619121598042</updated>
+    </task>
+    <task id="LOCAL-00048" summary="readme update(23/04)">
+      <created>1619121673651</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1619121673651</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -515,6 +538,7 @@
     <MESSAGE value="futureskill submissions(22/04)" />
     <MESSAGE value="futureskill submissions(23/04)" />
     <MESSAGE value="if-elif future skills submission(23/04)" />
-    <option name="LAST_COMMIT_MESSAGE" value="if-elif future skills submission(23/04)" />
+    <MESSAGE value="readme update(23/04)" />
+    <option name="LAST_COMMIT_MESSAGE" value="readme update(23/04)" />
   </component>
 </project>
