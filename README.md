@@ -43,7 +43,7 @@ P.s: it wasn't asked to upload the certificates here but i am keeping the certif
 │   ├── sololearn python certificate.pdf   
 ├── future skills submission
 │   ├── dictionary1.py
-├── processing
+├── codes
 │   ├── Binary_Search.py
 |   |── Book_Title_Sololearn_soln.py
 |   |── fuzz_buzz_sololearn_solution.py
