@@ -35,3 +35,22 @@ P.s: it wasn't asked to upload the certificates here but i am keeping the certif
 **If you like my work please leave a :star:**
 
 ---------------------------------------------
+
+## Directory Tree
+
+```
+├── certs 
+│   ├── sololearn python certificate.pdf   
+├── future skills submission
+│   ├── dictionary1.py
+├── processing
+│   ├── Binary_Search.py
+|   |── Book_Title_Sololearn_soln.py
+|   |── fuzz_buzz_sololearn_solution.py
+|   |── lists_in_python.py
+|   |── python_strings.py
+|   |── my_first_prog.py
+├── .gitignore file
+├── LICENSE
+
+```
