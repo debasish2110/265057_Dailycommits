@@ -1,12 +1,5 @@
 # PYTHON PROGRAMMING PRACTICE AND DAILY COMMIT
 
-## contents
-  * [My Intro](#MyIntro)
-  * [Folder Structure](#Folder_Structure)
-  * [Commits data in Tabular Form](#Commits_data_in_Tabular_Form)
-  * [Directory Tree](#Directory_Tree)
-  * [Hackerrank gold badge](#Hackerrank_gold_badge)
-
 -----
 ## MyIntro
 **name:** Debashish Dash
@@ -16,6 +9,16 @@
 **My Hackerrank Profile link :** [debashish2110](https://www.hackerrank.com/debashish2110)
 
 --------
+
+## contents
+  * [My Intro](#MyIntro)
+  * [Folder Structure](#Folder_Structure)
+  * [Commits data in Tabular Form](#Commits_data_in_Tabular_Form)
+  * [Directory Tree](#Directory_Tree)
+  * [Hackerrank gold badge](#Hackerrank_gold_badge)
+
+
+-------
 
 ##  Folder_Structure
 
