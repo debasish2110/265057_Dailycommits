@@ -168,13 +168,6 @@
       <option name="presentableId" value="Default" />
       <updated>1618657490744</updated>
     </task>
-    <task id="LOCAL-00021" summary="sololearn solution commit(19/04)">
-      <created>1618785458019</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1618785458019</updated>
-    </task>
     <task id="LOCAL-00022" summary="python certificate update(19/04)">
       <created>1618858963402</created>
       <option name="number" value="00022" />
@@ -511,7 +504,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619186198679</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="hackerrank gold badge complete ss update (23/04)">
+      <created>1619186324100</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1619186324100</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

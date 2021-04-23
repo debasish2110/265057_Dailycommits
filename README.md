@@ -1,5 +1,11 @@
 # PYTHON PROGRAMMING PRACTICE AND DAILY COMMIT
 
+## contents
+* [My Intro](#My Intro)
+* [Folder Structure](#Folder Structure)
+
+-----
+## My Intro
 **name:** Debashish Dash
 
 **SF_ID:** [265057](https://futureskillsnasscom.edcast.com/@debasishdash98)
@@ -8,9 +14,9 @@
 
 --------
 
-**Folder Structure**
-----
+##  Folder Structure
 
+-----------------
 
 **future skills submission:** solutions of the questions which are uploaded in the future skills are uploaded here
 
