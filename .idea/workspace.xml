@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a137b97-f67c-4880-97f0-61b247479104" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/future skills submission/tuple3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="4a137b97-f67c-4880-97f0-61b247479104" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,27 +165,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1618657490744</updated>
-    </task>
-    <task id="LOCAL-00013" summary="start commiting(17/04)">
-      <created>1618684334226</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1618684334226</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Day1 commiting(18/04)">
-      <created>1618769825850</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1618769825850</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Day1 commiting(18/04)">
-      <created>1618769980097</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1618769980097</updated>
     </task>
     <task id="LOCAL-00016" summary="sololearnfuzzbuzz">
       <created>1618777957668</created>
@@ -513,7 +488,28 @@
       <option name="project" value="LOCAL" />
       <updated>1619180856781</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="tuple 2nd qstn i.e. q3 submission(23/04)">
+      <created>1619181343924</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1619181343924</updated>
+    </task>
+    <task id="LOCAL-00063" summary="tuple 2nd qstn i.e. q3 submission(23/04)">
+      <created>1619181471528</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1619181471528</updated>
+    </task>
+    <task id="LOCAL-00064" summary="tuple 2nd qstn i.e. q3 submission(23/04)">
+      <created>1619181560025</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1619181560025</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -554,6 +550,7 @@
     <MESSAGE value="set qstn 1 soln submission(23/04)" />
     <MESSAGE value="readme update set qstn 1(23/04)" />
     <MESSAGE value="tuple first qstn i.e. q2 submission(23/04)" />
-    <option name="LAST_COMMIT_MESSAGE" value="tuple first qstn i.e. q2 submission(23/04)" />
+    <MESSAGE value="tuple 2nd qstn i.e. q3 submission(23/04)" />
+    <option name="LAST_COMMIT_MESSAGE" value="tuple 2nd qstn i.e. q3 submission(23/04)" />
   </component>
 </project>
