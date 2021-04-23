@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a137b97-f67c-4880-97f0-61b247479104" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="4a137b97-f67c-4880-97f0-61b247479104" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,13 +165,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1618657490744</updated>
-    </task>
-    <task id="LOCAL-00009" summary="start commiting(17/04)">
-      <created>1618683893404</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1618683893404</updated>
     </task>
     <task id="LOCAL-00010" summary="start commiting(17/04)">
       <created>1618683999665</created>
@@ -511,7 +502,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619179311363</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="readme update set qstn 1(23/04)">
+      <created>1619179945652</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1619179945652</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -550,6 +548,7 @@
     <MESSAGE value="list qstn2 solution upload(23/04)" />
     <MESSAGE value="list2 slon readme update(23/04)" />
     <MESSAGE value="set qstn 1 soln submission(23/04)" />
-    <option name="LAST_COMMIT_MESSAGE" value="set qstn 1 soln submission(23/04)" />
+    <MESSAGE value="readme update set qstn 1(23/04)" />
+    <option name="LAST_COMMIT_MESSAGE" value="readme update set qstn 1(23/04)" />
   </component>
 </project>
