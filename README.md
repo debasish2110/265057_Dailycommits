@@ -1,11 +1,14 @@
 # PYTHON PROGRAMMING PRACTICE AND DAILY COMMIT
 
 ## contents
-* [My Intro](#My Intro)
-* [Folder Structure](#Folder Structure)
+  * [My Intro](#MyIntro)
+  * [Folder Structure](#Folder_Structure)
+  * [Commits data in Tabular Form](#Commits_data_in_Tabular_Form)
+  * [Directory Tree](#Directory_Tree)
+  * [Hackerrank gold badge](#Hackerrank_gold_badge)
 
 -----
-## My Intro
+## MyIntro
 **name:** Debashish Dash
 
 **SF_ID:** [265057](https://futureskillsnasscom.edcast.com/@debasishdash98)
@@ -14,7 +17,7 @@
 
 --------
 
-##  Folder Structure
+##  Folder_Structure
 
 -----------------
 
@@ -26,7 +29,9 @@
 P.s: it wasn't asked to upload the certificates here but i am keeping the certificates fo future and as a backup.
 
 ---------
-**👇Commits data in Tabular Form👇**
+
+## 👇Commits_data_in_Tabular_Form👇
+
 | Sl_No | Folder name | File Name | Date |
 |:---:|:---:|:-----:|:---:|
 | 1 | codes | [my_first_prog.py](https://github.com/debasish2110/265057_Dailycommits/blob/master/codes/my_first_prog.py) | 17/04 |
@@ -50,7 +55,7 @@ P.s: it wasn't asked to upload the certificates here but i am keeping the certif
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Directory Tree
+## Directory_Tree
 
 ```
 ├── certs 
@@ -82,6 +87,8 @@ P.s: it wasn't asked to upload the certificates here but i am keeping the certif
 ├── LICENSE
 
 ```
+### Hackerrank_gold_badge
+
 <img src="https://github.com/debasish2110/265057_Dailycommits/blob/master/certs/hackerrank%20goldbadge%20complete%20ss(23-04-2021).png" width="1080" height="520">
 
 **If you like my work please leave a :star:**
