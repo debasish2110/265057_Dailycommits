@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a137b97-f67c-4880-97f0-61b247479104" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/future skills submission/list2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/future skills submission/set1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +41,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.list2">
+  <component name="RunManager" selected="Python.set1">
     <configuration name="List1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonDailyCommit" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -56,27 +55,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/future skills submission/List1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="if-elif-else3" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pythonDailyCommit" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/future skills submission" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/future skills submission/if-elif-else3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,13 +126,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="set1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonDailyCommit" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/future skills submission" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/future skills submission/set1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.set1" />
         <item itemvalue="Python.list2" />
         <item itemvalue="Python.List1" />
         <item itemvalue="Python.lists_in_python" />
         <item itemvalue="Python.if-elif-else4" />
-        <item itemvalue="Python.if-elif-else3" />
       </list>
     </recent_temporary>
   </component>
@@ -168,20 +167,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1618657490744</updated>
-    </task>
-    <task id="LOCAL-00006" summary="start commiting(17/04)">
-      <created>1618683437492</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1618683437492</updated>
-    </task>
-    <task id="LOCAL-00007" summary="start commiting(17/04)">
-      <created>1618683480140</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1618683480140</updated>
     </task>
     <task id="LOCAL-00008" summary="start commiting(17/04)">
       <created>1618683783634</created>
@@ -512,7 +497,21 @@
       <option name="project" value="LOCAL" />
       <updated>1619175519404</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="list qstn2 solution upload(23/04)">
+      <created>1619177486940</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1619177486940</updated>
+    </task>
+    <task id="LOCAL-00056" summary="list2 slon readme update(23/04)">
+      <created>1619177552381</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1619177552381</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -548,6 +547,8 @@
     <MESSAGE value="if-elif-else4 future skill submission(23/04)" />
     <MESSAGE value="readme update ifelif4(23/04)" />
     <MESSAGE value="list qstn1 solution upload(23/04)" />
-    <option name="LAST_COMMIT_MESSAGE" value="list qstn1 solution upload(23/04)" />
+    <MESSAGE value="list qstn2 solution upload(23/04)" />
+    <MESSAGE value="list2 slon readme update(23/04)" />
+    <option name="LAST_COMMIT_MESSAGE" value="list2 slon readme update(23/04)" />
   </component>
 </project>
