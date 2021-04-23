@@ -49,7 +49,7 @@ P.s: it wasn't asked to upload the certificates here but i am keeping the certif
 ```
 ├── certs 
 │   ├── sololearn python certificate.pdf  
-│   ├── goldbadge complete ss(23-04-2021)
+│   ├── hackerrank goldbadge complete ss(23-04-2021).png
 | 
 ├── future skills submission
 │   ├── dictionary1.py
