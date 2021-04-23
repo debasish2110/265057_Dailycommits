@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a137b97-f67c-4880-97f0-61b247479104" name="Default Changelist" comment="" />
+    <list default="true" id="4a137b97-f67c-4880-97f0-61b247479104" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/future skills submission/List1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,8 +43,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.if-elif-else4">
-    <configuration name="dictionary1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.List1">
+    <configuration name="List1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonDailyCommit" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -52,28 +56,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/future skills submission/dictionary1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="if-elif-else1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pythonDailyCommit" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/future skills submission" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/future skills submission/if-elif-else1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/future skills submission/List1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,13 +128,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="lists_in_python" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonDailyCommit" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/codes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codes/lists_in_python.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.List1" />
+        <item itemvalue="Python.lists_in_python" />
         <item itemvalue="Python.if-elif-else4" />
         <item itemvalue="Python.if-elif-else3" />
         <item itemvalue="Python.if-elif-else2" />
-        <item itemvalue="Python.if-elif-else1" />
-        <item itemvalue="Python.dictionary1" />
       </list>
     </recent_temporary>
   </component>
@@ -165,27 +169,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1618657490744</updated>
-    </task>
-    <task id="LOCAL-00001" summary="first commit">
-      <created>1618657566412</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1618657566412</updated>
-    </task>
-    <task id="LOCAL-00002" summary="first commit">
-      <created>1618657748210</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1618657748210</updated>
-    </task>
-    <task id="LOCAL-00003" summary="first prog">
-      <created>1618657863987</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1618657863987</updated>
     </task>
     <task id="LOCAL-00004" summary="start commiting(17/04)">
       <created>1618683169262</created>
@@ -509,7 +492,28 @@
       <option name="project" value="LOCAL" />
       <updated>1619122552533</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="readme update ifelif4(23/04)">
+      <created>1619122609724</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1619122609725</updated>
+    </task>
+    <task id="LOCAL-00051" summary="readme update ifelif4(23/04)">
+      <created>1619122646563</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1619122646563</updated>
+    </task>
+    <task id="LOCAL-00052" summary="readme update ifelif4(23/04)">
+      <created>1619122808717</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1619122808717</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -543,6 +547,7 @@
     <MESSAGE value="if-elif future skills submission(23/04)" />
     <MESSAGE value="readme update(23/04)" />
     <MESSAGE value="if-elif-else4 future skill submission(23/04)" />
-    <option name="LAST_COMMIT_MESSAGE" value="if-elif-else4 future skill submission(23/04)" />
+    <MESSAGE value="readme update ifelif4(23/04)" />
+    <option name="LAST_COMMIT_MESSAGE" value="readme update ifelif4(23/04)" />
   </component>
 </project>
