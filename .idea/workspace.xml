@@ -168,20 +168,6 @@
       <option name="presentableId" value="Default" />
       <updated>1618657490744</updated>
     </task>
-    <task id="LOCAL-00028" summary="List functions update(20/04)">
-      <created>1618936426813</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1618936426813</updated>
-    </task>
-    <task id="LOCAL-00029" summary="List functions update(20/04)">
-      <created>1618936481471</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1618936481471</updated>
-    </task>
     <task id="LOCAL-00030" summary="List functions update(20/04)">
       <created>1618951327107</created>
       <option name="number" value="00030" />
@@ -511,7 +497,21 @@
       <option name="project" value="LOCAL" />
       <updated>1619274351568</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="readme update(24/04)">
+      <created>1619282234918</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1619282234918</updated>
+    </task>
+    <task id="LOCAL-00078" summary="class_objrct uplaod (24/04)">
+      <created>1619282488061</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1619282488061</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -529,7 +529,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="python certificate update(19/04)" />
     <MESSAGE value="readme update(20/04)" />
     <MESSAGE value="List functions update(20/04)" />
     <MESSAGE value="string functions(20/04)" />
@@ -554,6 +553,7 @@
     <MESSAGE value="readme update (23/04)" />
     <MESSAGE value="pcap upload (24/04)" />
     <MESSAGE value="readme update(24/04)" />
-    <option name="LAST_COMMIT_MESSAGE" value="readme update(24/04)" />
+    <MESSAGE value="class_objrct uplaod (24/04)" />
+    <option name="LAST_COMMIT_MESSAGE" value="class_objrct uplaod (24/04)" />
   </component>
 </project>
